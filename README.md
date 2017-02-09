@@ -2,7 +2,7 @@
 
 ## Slide 1
 
-### Empresa XYZ
+### Empresa CMS Plus
 
 | Alunos                        | RA          |
 |-------------------------------|:-----------:|
@@ -21,9 +21,8 @@ PROJETO DE QUALIFICAÇÃO TECNOLÓGICA EM INFORMÁTICA I
 
 ### DESCRIÇÃO DA EMPRESA
 
-- Resumo da organização da empresa ou negócio.
-- Procure ressaltar as características e diferenciais de seu produto e/ou serviço
-- Apresente os benefícios que sua empresa traz para o cliente.
+- Empresa especializada na criação e desenvolvimento de temas e plugins para as plataformas open source CMS mais populares, como o WordPress, plataforma responsável pela manutenção de 26% de todos os sites da Internet, e o Moodle, plataforma líder de mercado  para criação de Ambientes Virtuais de Aprendizagem.
+- Os temas e plugins criados e desenvolvidos pela CMS Plus permitem uma experiência de uso das plataformas muito mais proveitosa, tanto para desenvolvedores como para usuários dos sistemas.
 
 
 ## Slide 3
