@@ -4,13 +4,14 @@
 
 ### Empresa XYZ
 
-Alunos | RA
-Edson de Aguiar Costa | 1517100025
-Fernando de Lima Martins | 2017100060
-Raul de Oliveira Gómez Roig | 2517100348
-Saulo Teodoz dos Santos | 2317100103
-Sara de Lima dos Santos Melo | 2517100077
-Thiago Rodrigo Camargo | 1717101388
+| Alunos                        | RA          |
+|-------------------------------|:-----------:|
+| Edson de Aguiar Costa         | 1517100025  |
+| Fernando de Lima Martins      | 2017100060  |
+| Raul de Oliveira Gómez Roig   | 2517100348  |
+| Saulo Teodoz dos Santos       | 2317100103  |
+| Sara de Lima dos Santos Melo  | 2517100077  |
+| Thiago Rodrigo Camargo        | 1717101388  |
 
 PROF. FLORIANO FERREIRA DOS REIS FILHO
 PROJETO DE QUALIFICAÇÃO TECNOLÓGICA EM INFORMÁTICA I
