@@ -21,9 +21,11 @@ PROJETO DE QUALIFICAÇÃO TECNOLÓGICA EM INFORMÁTICA I
 
 ### DESCRIÇÃO DA EMPRESA
 
-- Resumo da organização da empresa ou negócio.
-- Procure ressaltar as características e diferenciais de seu produto e/ou serviço
-- Apresente os benefícios que sua empresa traz para o cliente.
+Criar uma empresa com especialização em marketing na web. Composta de uma equipe de consultores que utilizam ferramentas modernas para alavancar o comércio eletronico. Entre elas o Google Ad-Sense, Google Ad-Words,  Senso de consumo , Busca Orgânica e Regional entre outras.  
+
+Notamos que a área de comércio eletrônico tem aumentando cada vez mais. Porém são inúmeros empresários que não investem  uma ação de marketing eficiente. E quando investem, fazem de forma errada.  
+
+O foco da empresa é oferecer ferramentas humanas ou autônomas para colocar a empresa no Top das pesquisas na web.  
 
 
 ## Slide 3
