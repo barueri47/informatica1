@@ -56,19 +56,16 @@ Com o objetivo de aplicar os conhecimentos na língua inglesa, a equipe deve faz
 
 ### VALORES DA EMPRESA
 
-- Valores são princípios que servem para guiar as atitudes, comportamentos e decisões.
-- Por exemplo: Trabalho em equipe, Qualidade, Ética, Respeito etc.
+- Foco em resultados
+- Trabalho colaborativo em equipes multidisciplinares
+- Comprometimento com a satisfação do cliente
+- Cooperação com empresas concorrentes
 
 
 ## Slide 7
 
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
-- MICHAELIS. Michaelis moderno dicionário inglês & português. Disponível em: <http://michaelis.uol.com.br/moderno/ingles/index.php?languageText=portugues-ingles> Acesso em 05 de agosto de 2015.
-- Site Office. Tarefas básicas no PowerPoint 2010. Disponível em: <https://support.office.com/pt-br/article/Tarefas-b%C3%A1sicas-no-PowerPoint-2010-35308dfb-792d-400a-b69a-1188b019c66a>. Acesso em 03 de agosto de 2015.
-- Site de Suporte do Office. Tarefas básicas no PowerPoint 2010. Disponível em: <https://support.office.com/pt-br/article/Tarefas-b%C3%A1sicas-no-PowerPoint-2010-35308dfb-792d-400a-b69a-1188b019c66a>. Acesso em 03 de agosto de 2015.
-- CHIAVENATO, Idalberto. Empreendedorismo: dando asas ao espírito empreendedor. São Paulo: Saraiva, 2005.
-- DEGEN, Ronald Jean. O Empreendedor: fundamentos da iniciativa empresarial. São Paulo: McGraw-Hill, 1989.
-- DOLABELA, Fernando. Oficina do Empreendedor. São Paulo: Cultura, 1999.
-- DORNELAS, José Carlos Assis. Empreendedorismo: transformando ideias em negócios. 2. ed. Rio de Janeiro: Campus, 2004.
-- PINCHOT, Gifford. Intraempreendedorismo na prática: um guia de inovação nos negócios. Rio de Janeiro: Campus Elsevier, 2004.
+- LONGO, Walter. Marketing e Comunicação na Era Pós-digital: As regras mudaram. São Paulo: HSM Editora, 2014.
+- Site Curso de e-commerce: Fundamentos de um e-commerce de sucesso. Disponível em: <http://www.cursodeecommerce.com.br/fundamentos-ecommerce-sucesso/>. Acesso em 17 de fevereiro de 2017.
+- Site SEO Estratégico: Otimização de Sites com foco em resultados. Disponível em: <http://www.conversion.com.br/otimizacao-de-sites-seo/>. Acesso em 17 de fevereiro de 2017.
