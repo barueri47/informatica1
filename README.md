@@ -21,19 +21,19 @@ PROJETO DE QUALIFICAÇÃO TECNOLÓGICA EM INFORMÁTICA I
 
 ### DESCRIÇÃO DA EMPRESA
 
-Criar uma empresa com especialização em marketing na web. Composta de uma equipe de consultores que utilizam ferramentas modernas para alavancar o comércio eletronico. Entre elas o Google Ad-Sense, Google Ad-Words,  Senso de consumo , Busca Orgânica e Regional entre outras.  
+Trabalhamos com Marketing em Web. Temos uma equipe especializada de consultores e programadores focados em resultados.
+Nossa equipe de especialistas irão ajudar a sua empresa a alcançar os mais elevados patamares de pesquisa.
+Entre elas o Google Ad-Sense, Google Ad-Words,  Senso de consumo, Busca Orgânica otimizada, Regional entre outras.  
 
-Notamos que a área de comércio eletrônico tem aumentando cada vez mais. Porém são inúmeros empresários que não investem  uma ação de marketing eficiente. E quando investem, fazem de forma errada.  
-
-O foco da empresa é oferecer ferramentas humanas ou autônomas para colocar a empresa no Top das pesquisas na web.  
-
+O foco da nossa empresa é oferecer ferramentas humanas ou autônomas para colocar a sua empresa no topo das pesquisas.  
 
 ## Slide 3
 
 ### COMPANY DESCRIPTION
 
-Com o objetivo de aplicar os conhecimentos na língua inglesa, a equipe deve fazer uma tradução da descrição da empresa.
-
+We work with Web Marketing. We have a specialized team of consultants and programmers focused on results.
+Our team of experts will help your company achieve the highest levels of research.
+Among them are Google Ad-Sense, Google Ad-Words, Consumer Sense, Optimized Organic Search, Regional among others.
 
 ## Slide 4
 
